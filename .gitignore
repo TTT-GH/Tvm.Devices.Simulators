@@ -1,0 +1,22 @@
+# Visual Studio-specific files
+.vs/
+*.user
+*.suo
+*.ipch
+*.cache
+*.obj
+*.pch
+*.tlog
+*.log
+*.dll
+*.exe
+*.ilk
+*.idb
+*.pdb
+
+# Backup and temporary files
+*.tmp
+*.bak
+*.ncb
+*.res
+*.aps
